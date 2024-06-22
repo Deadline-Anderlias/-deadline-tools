@@ -1,1 +1,17 @@
-
+{
+  "name": "deadline-tools-boost",
+  "version": "1.0.0",
+  "description": "Description de votre projet",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
